@@ -5,10 +5,8 @@ title: Michael Wong's Website
 email: michaelwong7533@gmail.com
 description: Website about Solar Chapter >- # this means to ignore newlines until "baseurl:"
 url: sodagembira.github.io
-baseurl: /MyWebsite
+baseurl: 
 twitter_username: mw69
 github_username:  sodagembira
-include:
-  - _static
 plugins:
   - jekyll-feed
