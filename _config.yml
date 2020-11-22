@@ -5,7 +5,7 @@ title: Michael Wong's Website
 email: michaelwong7533@gmail.com
 description: Website about Solar Chapter
 url: "https://sodagembira.github.io/MyWebsite"
-baseurl: "MyWebsite"
+baseurl: 
 twitter_username: mw69
 github_username:  sodagembira
 plugins:
