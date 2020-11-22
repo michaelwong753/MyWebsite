@@ -1,2 +1,5 @@
 collections:
   portfolio:
+
+url: "https://sodagembira.github.io"
+   baseurl: "/MyWebsite"
