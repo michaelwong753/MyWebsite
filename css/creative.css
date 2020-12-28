@@ -70,7 +70,7 @@ p {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-image: url(https://sodagembira.github.io/MyWebsite/img/portfolio/6.jpg);
+    background-image: url(https://michaelwong753.github.io/MyWebsite/img/portfolio/6.jpg);
     background-repeat: no-repeat;
 }
 
@@ -95,7 +95,7 @@ p {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-image: url(https://sodagembira.github.io/MyWebsite/img/header1.png);
+    background-image: url(https://michaelwong753.github.io/MyWebsite/img/header1.png);
 }
 
 .bg-about::before {
@@ -225,7 +225,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(https://sodagembira.github.io/MyWebsite/img/portfolio/2.png);
+    background-image: url(https://michaelwong753.github.io/MyWebsite/img/portfolio/2.png);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
